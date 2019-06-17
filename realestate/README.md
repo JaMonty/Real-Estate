@@ -4,6 +4,13 @@ Welcome to my real estate lab! Are you looking to invest in luxury real estate? 
 
 To get started, you can find all the files you’ll need to be able to package up your Ruby library into a gem in this directory. Place your Ruby code in the file ‘lib/realestate’. Feeling experimental? Run ‘bin/console’ for an interactive prompt. 
 
+## Objectives
+
+	1. Browse through available luxury properties around the world
+
+	2. Gather information from each of the listings - square footage, number of beds/baths, and location of listing. 
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
