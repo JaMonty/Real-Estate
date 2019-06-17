@@ -11,25 +11,16 @@ To get started, you can find all the files you’ll need to be able to package u
 	2. Gather information from each of the listings - square footage, number of beds/baths, and location of listing. 
 
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'realestate'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install realestate
-
 ## Usage
 
-TODO: Write usage instructions here
+  <!-- Go into Documents directory, into workspace directory, into learnco directory then realestate directory
+  then run 
+  ./bin/realestate
+  then it will display all the listings
+  choose the number of the property and it will display more information as in home specs and price of property.
+  type E to exit.
+  run ./bin/realestate to start from the beginning again -->
+<!-- TODO: Write usage instructions here -->
 
 ## Development
 
@@ -40,6 +31,16 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/realestate. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+
+## Contributors Guide
+
+### For Developers
+www.theagencyre.com
+
+## Resources
+
+Real Estate information obtained from https://www.theagencyre.com
 
 ## License
 
