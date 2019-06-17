@@ -1,4 +1,4 @@
-# Realestate
+# Real Estate
 
 Welcome to my real estate lab! Are you looking to invest in luxury real estate? If you answered yes, now is the perfect time. In this lab, we’ll be taking a look at luxury property listings available around the world. Venture through the code as we browse through current listings with information about the location, square footage of the house, number of beds/baths, and the price of each property.
 
