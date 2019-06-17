@@ -13,14 +13,11 @@ To get started, you can find all the files you’ll need to be able to package u
 
 ## Usage
 
-  <!-- Go into Documents directory, into workspace directory, into learnco directory then realestate directory
-  then run 
-  ./bin/realestate
-  then it will display all the listings
+  Go into Documents directory, into workspace directory, into learnco directory then realestate directory
+  then run ' ./bin/realestate'then it will display all the listings
   choose the number of the property and it will display more information as in home specs and price of property.
   type E to exit.
-  run ./bin/realestate to start from the beginning again -->
-<!-- TODO: Write usage instructions here -->
+  run ./bin/realestate to start from the beginning again
 
 ## Development
 
