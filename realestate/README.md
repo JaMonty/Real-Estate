@@ -1,8 +1,8 @@
 # Realestate
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/realestate`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to my real estate lab! Are you looking to invest in luxury real estate? If you answered yes, now is the perfect time. In this lab, we’ll be taking a look at luxury property listings available around the world. Venture through the code as we browse through current listings with information about the location, square footage of the house, number of beds/baths, and the price of each property.
 
-TODO: Delete this and the text above, and describe your gem
+To get started, you can find all the files you’ll need to be able to package up your Ruby library into a gem in this directory. Place your Ruby code in the file ‘lib/realestate’. Feeling experimental? Run ‘bin/console’ for an interactive prompt. 
 
 ## Installation
 
